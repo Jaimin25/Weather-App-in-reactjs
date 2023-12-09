@@ -16,7 +16,7 @@ Follow the steps below to install and run this web application on your local mac
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/Jaimin25/ReactCreations.git
+    git clone https://github.com/Jaimin25/weather-app.git
     ```
 
 2. **Navigate to the Project Directory**
