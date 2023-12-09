@@ -1,7 +1,6 @@
 import moment from "moment";
 
 import {
-    Card,
     CardTitle,
     CardContent,
     CardHeader,
